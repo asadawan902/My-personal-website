@@ -18,6 +18,8 @@ header:before{
     bottom: 0;
     background-image: url(front1-removebg-preview.png);
     background-size: 100% 100%;
+    border-radius: 50%;
+
 }
 
 nav{
