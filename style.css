@@ -115,3 +115,54 @@ nav{
 .fa_icons:hover{
     background: linear-gradient(to bottom, #d465ef 0%, #615cfd 100%)
 }
+.card1{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: goldenrod;
+}
+.card2{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: goldenrod;
+}
+.card3{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    background-color: goldenrod;
+}
+.cards{
+    display: flex;
+    padding: 100px;
+}
+.box1,.box2,.box3{
+    padding: 30px;
+    transition-delay: 3s;
+
+}
+h3:hover{
+   background-color: white;
+   width: 350px; 
+}
+.footer{
+    background-color: burlywood;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-size: 20px;
+    height: 50px;
+}
+pre{
+    padding: 15px;
+}
